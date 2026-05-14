@@ -28,6 +28,13 @@ Features: Trains a model using real email datasets, predicts email category, and
 
 Technologies: Python, Scikit-learn, Pandas 
 
+4. Property price prediction
+
+Description : A machine learning project that predicts house prices in California using Machine learning.
+
+Features : Trains a model using real house pricing dataset with features and display the final output house price based on features.
+
+Technologies : The project was implemented using Python and commonly used Machine Learning libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
 
 Skills
 
